@@ -17,7 +17,7 @@
             Please enter your age: <input type="text" name="inputAge">
             <input type="submit" value="Calculate">
             <h3> ${newAgeMessage} </h3>
-            <h3> ${errorMessage} </h3>
         </form>
+        <a></a>
     </body>
 </html>
